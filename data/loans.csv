@@ -1,0 +1,4 @@
+id,reader_id,book_id,returned
+100,1,10,FALSE
+101,1,20,TRUE
+102,2,20,FALSE
